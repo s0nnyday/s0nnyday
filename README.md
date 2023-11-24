@@ -1,5 +1,8 @@
 ## Skills
-Java/Spring/JavaScript/HTML5/CSS3/Oracle/JSP/GitHub
+BE: JAVA/Spring Boot
+FE: HTML5/CSS3/JS/JSP/Servlet/Ajax/JQuery
+DB: Oracle/MySQL
+그외: GIT
 
 ## Experience
 * 쌍용교육센터-자바&스프링기반 AWS클라우드 융합 개발자 양성과정(2023.03.-2023.08)
