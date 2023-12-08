@@ -1,5 +1,5 @@
 ## Skills
-* BE: JAVA/Spring Boot
+* BE: JAVA/Spring Boot/Spring Security/REST API
 * FE: HTML5/CSS3/JS/JSP/Servlet/Ajax/JQuery
 * DB: Oracle/MySQL
 * 그외: GIT/Figma/Notion/Postman
