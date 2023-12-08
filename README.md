@@ -2,6 +2,7 @@
 * BE: JAVA/Spring Boot/Spring Security/REST API
 * FE: HTML5/CSS3/JS/JSP/Servlet/Ajax/JQuery
 * DB: Oracle/MySQL
+* IDE: Oracle/STS/IntelliJ
 * 그외: GIT/Figma/Notion/Postman
 
 ## Experience
