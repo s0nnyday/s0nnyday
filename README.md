@@ -9,17 +9,17 @@
 # Skills
 ## Backend
 * JAVA
-* SpringMVC/Spring Data JPA/Spring Boot2.x,3.x/Spring Security
-* JPA/MyBatis
+* SpringMVC, Spring Data JPA, Spring Boot2.x,3.x, Spring Security
+* JPA, MyBatis
 * JUnit5
-* Maven/Gradle-Kotlin
-* IntelliJ/Eclipse/STS
-* Oracle/MySQL
-* REST API/Postman
+* Maven, Gradle-Kotlin
+* IntelliJ, Eclipse, STS
+* Oracle, MySQL
+* REST API, Postman
 * Git
 * Docker
 ## Frontend
-* HTML5/CSS3/JS/JSP/Servlet/Ajax/JQuery/Thymeleaf
+* HTML5, CSS3, JavaScript, JSP, Servlet, Ajax, JQuery, Thymeleaf
 * Figma
 ## 그외
 * Notion
