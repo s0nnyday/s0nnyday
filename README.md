@@ -24,12 +24,12 @@
 ## 그외
 * Notion
 
-## Experience
+# Experience
 * 쌍용교육센터-Java & Spring기반 AWS클라우드 융합 개발자 양성과정(2023.03.-2023.08)
 * 우아한 테크코스 6기 - 백엔드 과정 프리코스(2023.10.-2023.11)
 * 해커톤]원데이 프로덕트 챌린지(주관:인하대 창업지원단/너디너리(Soft Squared)(2023.11)
 
-## Project
+# Project
 * DBJA 마트
 * TRAVLAN
 * Culturemore
