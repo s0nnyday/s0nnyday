@@ -25,19 +25,20 @@
 * Notion
 
 # 4. Experience
-* 쌍용교육센터-Java & Spring기반 AWS클라우드 융합 개발자 양성과정(2023.03.-2023.08)
-* 우아한 테크코스 6기 - 백엔드 과정 프리코스(2023.10.-2023.11)
 * 해커톤]원데이 프로덕트 챌린지(주관:인하대 창업지원단/너디너리(Soft Squared)(2023.11)
 
 # 5. Project
-* DBJA 마트
-* TRAVLAN
-* Culturemore
-* LFA
-* LBS
-* Ward
+1. DBJA 마트
+2. TRAVLAN
+3. Culturemore
+4. LFA
+5. LBS
+6. Ward
 
 # 6.Education
+1. 우아한 테크코스 6기 - 백엔드 과정 프리코스(2023.10.-2023.11)
+2. 쌍용교육센터-Java & Spring기반 AWS클라우드 융합 개발자 양성과정(2023.03.-2023.08)
+
 
 <!--
 [![Solved.ac
