@@ -1,13 +1,14 @@
-# 1. 👨‍💼 Introduction
+# 💁‍♂️ About Me
+## Introduction
 * 안녕하세요! 백엔드 개발자 손지민입니다.
 * **꾸준함**의 가치를 알고 행동에 옮기고 있습니다.
 
-# 2. 🎙️ Contact & Channel
+## Contact & Channel
 * **Email | lijnar100@naver.com**
 * **Blog |** https://velog.io/@s0nnyday
 
-# 3. 🧰 Skills
-## 3.1. Backend
+# ⛏ Skills
+## Backend
 * JAVA
 * SpringMVC, Spring Data JPA, Spring Boot2.x,3.x, Spring Security
 * JPA, MyBatis
@@ -17,22 +18,22 @@
 * Oracle, MySQL
 * REST API, Postman
 * Git
-## 3.2. Frontend
+## Frontend
 * HTML5, CSS3, JavaScript, JSP, Servlet, Ajax, JQuery, Thymeleaf
 * Figma
-## 3.3. 그외
+## 그외
 * Notion
-## 3.4. 관심
+## 관심
 * Docker
 * Kafka
 * AWS, GitAction
 * QueryDSL
 
-# 4. 🏃Experiences
+# 🏃‍♂️ Experiences
 * [해커톤 | 원데이 프로덕트 챌린지(주관:인하대 창업지원단/너디너리(Soft Squared)(2023.11)](https://github.com/LawFA/LFA_Server)
 * [스터디 | 책'필독! 개발자 온보딩 가이드' 독서, 토론(2023.09.-2023.11)](https://velog.io/@s0nnyday/series/%EC%8A%A4%ED%84%B0%EB%94%94%ED%95%84%EB%8F%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
 
-# 5. 💻Projects
+# 💻 Projects
 1. Ward
 2. LFA
 3. LBS
@@ -40,7 +41,7 @@
 5. TRAVLAN
 6. DBJA 마트
 
-# 6.📚Education
+# 📚 Education
 1. **우아한 테크코스 6기 - 백엔드 과정 프리코스(2023.10-2023.11)**
    * https://github.com/woowacourse-precourse
    * 4주 교육
