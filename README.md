@@ -29,12 +29,12 @@
 * [스터디 | 책'필독! 개발자 온보딩 가이드' 독서, 토론(2023.09.-2023.11)](https://velog.io/@s0nnyday/series/%EC%8A%A4%ED%84%B0%EB%94%94%ED%95%84%EB%8F%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
 
 # 5. Project
-1. DBJA 마트
-2. TRAVLAN
-3. Culturemore
-4. LFA
-5. LBS
 6. Ward
+5. LFA
+4. LBS
+3. Culturemore
+2. TRAVLAN
+1. DBJA 마트
 
 # 6.Education
 1. **우아한 테크코스 6기 - 백엔드 과정 프리코스(2023.10.-2023.11)**
