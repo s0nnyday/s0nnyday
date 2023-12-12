@@ -37,13 +37,15 @@
 
 # 6.Education
 1. **우아한 테크코스 6기 - 백엔드 과정 프리코스(2023.10.-2023.11)**
+   * https://github.com/woowacourse-precourse
    * 4주 교육
    * 미션 기반의 코드리뷰 중심
    * Git, Test, Code Convention, 객체지향(수정 필요)
 3. **쌍용교육센터-Java & Spring기반 AWS클라우드 융합 개발자 양성과정(2023.03.-2023.08)**
+   * (커리큘럼 등 링크)
    * 5.5개월 교육
    * 3차에 걸친 팀 프로젝트를 통한 협업 경험
-   * Java, Spring Boot, MyBatis, JPA, HTML, CSS, JS 외 다수
+   * Java, Spring Boot, Database, MyBatis, JPA, HTML, CSS, JS 외 다수
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0nnyday&layout=compact)](https://github.com/s0nnyday/github-readme-stats)
