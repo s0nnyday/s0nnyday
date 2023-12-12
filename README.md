@@ -1,13 +1,13 @@
-# Introduction
+# 1. Introduction
 * 안녕하세요! 백엔드 개발자 손지민입니다.
 * **꾸준함**의 가치를 알고 행동에 옮기고 있습니다.
 
-# Contact & Channel
+# 2. Contact & Channel
 * **Email | lijnar100@naver.com**
 * **Blog |** https://velog.io/@s0nnyday
 
-# Skills
-## Backend
+# 3. Skills
+## 3.1. Backend
 * JAVA
 * SpringMVC, Spring Data JPA, Spring Boot2.x,3.x, Spring Security
 * JPA, MyBatis
@@ -18,24 +18,26 @@
 * REST API, Postman
 * Git
 * Docker
-## Frontend
+## 3.2. Frontend
 * HTML5, CSS3, JavaScript, JSP, Servlet, Ajax, JQuery, Thymeleaf
 * Figma
-## 그외
+## 3.3. 그외
 * Notion
 
-# Experience
+# 4. Experience
 * 쌍용교육센터-Java & Spring기반 AWS클라우드 융합 개발자 양성과정(2023.03.-2023.08)
 * 우아한 테크코스 6기 - 백엔드 과정 프리코스(2023.10.-2023.11)
 * 해커톤]원데이 프로덕트 챌린지(주관:인하대 창업지원단/너디너리(Soft Squared)(2023.11)
 
-# Project
+# 5. Project
 * DBJA 마트
 * TRAVLAN
 * Culturemore
 * LFA
 * LBS
 * Ward
+
+# 6.Education
 
 <!--
 [![Solved.ac
