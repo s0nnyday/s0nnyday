@@ -17,12 +17,16 @@
 * Oracle, MySQL
 * REST API, Postman
 * Git
-* Docker
 ## 3.2. Frontend
 * HTML5, CSS3, JavaScript, JSP, Servlet, Ajax, JQuery, Thymeleaf
 * Figma
 ## 3.3. 그외
 * Notion
+## 3.4. 관심
+* Docker
+* Kafka
+* AWS
+* QueryDSL
 
 # 4. Experience
 * [해커톤 | 원데이 프로덕트 챌린지(주관:인하대 창업지원단/너디너리(Soft Squared)(2023.11)](https://github.com/LawFA/LFA_Server)
