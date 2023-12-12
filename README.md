@@ -1,4 +1,5 @@
 ## Skills
+### Backedn
 * JAVA
 * SpringMVC/Spring Data JPA/Spring Boot2.x,3.x/Spring Security
 * JPA/MyBatis
@@ -7,8 +8,11 @@
 * IntelliJ/Eclipse/STS
 * Oracle/MySQL
 * REST API/Postman
-* FE: HTML5/CSS3/JS/JSP/Servlet/Ajax/JQuery
-* 그외: Git/Notion/Figma/Docker
+* Git
+* Docker
+### Frontend
+* HTML5/CSS3/JS/JSP/Servlet/Ajax/JQuery/Thymeleaf
+* 그외: Notion/Figma/Docker
 
 ## Experience
 * 쌍용교육센터-Java & Spring기반 AWS클라우드 융합 개발자 양성과정(2023.03.-2023.08)
