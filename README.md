@@ -8,7 +8,7 @@
 * Oracle/MySQL
 * REST API/Postman
 * FE: HTML5/CSS3/JS/JSP/Servlet/Ajax/JQuery
-* * 그외: Git/Notion/Figma/Docker
+* 그외: Git/Notion/Figma/Docker
 
 ## Experience
 * 쌍용교육센터-Java & Spring기반 AWS클라우드 융합 개발자 양성과정(2023.03.-2023.08)
