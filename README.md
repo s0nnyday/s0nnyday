@@ -1,5 +1,13 @@
-## Skills
-### Backedn
+# Introduction
+* 안녕하세요! 백엔드 개발자 손지민입니다.
+* 꾸준함의 가치를 알고 행동에 옮기고 있습니다.
+
+# Contact & Channel
+* **Email | lijnar100@naver.com**
+* **Blog |** https://velog.io/@s0nnyday
+
+# Skills
+## Backend
 * JAVA
 * SpringMVC/Spring Data JPA/Spring Boot2.x,3.x/Spring Security
 * JPA/MyBatis
@@ -10,9 +18,11 @@
 * REST API/Postman
 * Git
 * Docker
-### Frontend
+## Frontend
 * HTML5/CSS3/JS/JSP/Servlet/Ajax/JQuery/Thymeleaf
-* 그외: Notion/Figma/Docker
+* Figma
+## 그외
+* Notion
 
 ## Experience
 * 쌍용교육센터-Java & Spring기반 AWS클라우드 융합 개발자 양성과정(2023.03.-2023.08)
