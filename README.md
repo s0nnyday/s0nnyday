@@ -25,7 +25,7 @@
 ## 3.4. 관심
 * Docker
 * Kafka
-* AWS
+* AWS, GitAction
 * QueryDSL
 
 # 4. Experience
