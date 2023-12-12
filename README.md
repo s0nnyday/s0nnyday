@@ -1,6 +1,6 @@
 # Introduction
 * 안녕하세요! 백엔드 개발자 손지민입니다.
-* 꾸준함의 가치를 알고 행동에 옮기고 있습니다.
+* **꾸준함**의 가치를 알고 행동에 옮기고 있습니다.
 
 # Contact & Channel
 * **Email | lijnar100@naver.com**
