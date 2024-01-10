@@ -25,7 +25,6 @@
 * Notion
 ## 관심
 * Docker
-* Kafka
 * AWS, GitAction
 * QueryDSL
 
