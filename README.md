@@ -7,26 +7,28 @@
 * **Email | lijnar100@naver.com**
 * **Blog |** https://velog.io/@s0nnyday
 
-# ⛏ Skills
+# ⛏ SKILLS
 ## Backend
-* JAVA
-* SpringMVC, Spring Data JPA, Spring Boot2.x,3.x, Spring Security
-* JPA, MyBatis
-* JUnit5
-* Maven, Gradle-Kotlin
-* IntelliJ, Eclipse, STS
-* Oracle, MySQL
-* REST API, Postman
-* Git
+- JAVA
+- Spring Framwork, Spring Boot, Spring MVC, Spring Data JPA, Spring Security
+- REST API
+- JPA, Mybatis, Hibernate
+- Gradle, Maven
+- IntelliJ, STS, Eclipse
+
+## DevOps
+- MySQL, Oracle
+- AWS EC2, Git Bash
+
 ## Frontend
-* HTML5, CSS3, JavaScript, JSP, Servlet, Ajax, JQuery, Thymeleaf
-* Figma
-## 그외
-* Notion
-## 관심
-* Docker
-* AWS, GitAction
-* QueryDSL
+- HTML5, CSS3(SCSS), JS(ES6), Thymeleaf
+- JSP, Servlet, Ajax, JQuery
+- Figma, Bootstrap
+
+## etc
+- Git / GitHub
+- Notion
+- Postman
 
 # 🏃‍♂️ Experiences
 * [해커톤 | 원데이 프로덕트 챌린지(주관:인하대 창업지원단/너디너리(Soft Squared)(2023.11)](https://github.com/LawFA/LFA_Server)
