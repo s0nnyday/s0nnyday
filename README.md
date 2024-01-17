@@ -12,7 +12,7 @@
 - JAVA
 - Spring Framwork, Spring Boot, Spring MVC, Spring Data JPA, Spring Security
 - REST API
-- JPA, Mybatis, Hibernate
+- JPA, Mybatis
 - Gradle, Maven
 - IntelliJ, STS, Eclipse
 
