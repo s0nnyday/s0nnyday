@@ -9,26 +9,30 @@
 
 # ⛏ SKILLS
 ## Backend
-- JAVA
-- Spring Framwork, Spring Boot, Spring MVC, Spring Data JPA, Spring Security
-- REST API
-- JPA, Mybatis
-- Gradle, Maven
-- IntelliJ, STS, Eclipse
 
-## DevOps
-- MySQL, Oracle
-- AWS EC2, Git Bash
+- **JAVA**
+- **Spring Framwork, Spring Boot, Spring MVC, Spring Security, JWT**
+- **REST API**
+- **JPA, Mybatis**
+- **Gradle.kts, Maven**
 
-## Frontend
-- HTML5, CSS3(SCSS), JS(ES6), Thymeleaf
-- JSP, Servlet, Ajax, JQuery
-- Figma, Bootstrap
+## **DevOps**
 
-## etc
-- Git / GitHub
-- Notion
-- Postman
+- **MySQL, Oracle**
+- **AWS EC2(Amazon Linux), Git Bash**
+
+## **Frontend**
+
+- **HTML5, CSS3(SCSS), JS(ES6), Thymeleaf**
+- **JSP, Servlet, Ajax, JQuery**
+- **Figma, Bootstrap**
+
+## **etc**
+
+- **Git / GitHub**
+- **IntelliJ, STS, Eclipse**
+- **Notion**
+- **Postman**
 
 # 🏃‍♂️ Experiences
 * [해커톤 | 원데이 프로덕트 챌린지(주관:인하대 창업지원단/너디너리(Soft Squared)(2023.11)](https://github.com/LawFA/LFA_Server)
