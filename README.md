@@ -52,7 +52,7 @@
    * 4주 교육
    * 미션 기반의 코드 리뷰 중심 교육
    * Git, JAVA, 함수(객체) 분리, 도메인 로직에 대한 단위 테스트, Code Convention, 클린코드 등 학습
-## **[쌍용교육센터 | 2023.03-2023.08)](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)**
+## **[쌍용교육센터 | 2023.03-2023.08](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)**
 *Java & Spring기반 AWS 클라우드 융합 개발자 양성 과정*
 [이수 교육 내역서 링크](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)
 + 5.5개월간의 교육
