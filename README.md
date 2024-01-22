@@ -47,16 +47,17 @@
 6. DBJA 마트
 
 # 📚 Education
-1. **우아한 테크코스 6기 - 백엔드 과정 프리코스(2023.10-2023.11)**
-   * https://github.com/woowacourse-precourse
+## **[우아한테크코스 6기](https://github.com/woowacourse-precourse) | 웹 백엔드 과정 프리코스(2023.10-2023.11)**
+*우아한 형제들에서 진행한 웹 백엔드 개발자 양성 교육 과정*
    * 4주 교육
    * 미션 기반의 코드 리뷰 중심 교육
    * Git, JAVA, 함수(객체) 분리, 도메인 로직에 대한 단위 테스트, Code Convention, 클린코드 등 학습
-3. **쌍용교육센터-Java & Spring기반 AWS클라우드 융합 개발자 양성과정(2023.03-2023.08)**
-   * (커리큘럼 등 링크)
-   * 5.5개월 교육
-   * 3차 팀 프로젝트를 통한 협업 경험 및 다양한 기술 습득
-   * Java, Spring Boot, Database, JDBC, MyBatis, JPA, HTML5 & CSS 3, JavaScript & JQuery & AJAX, JSP / Servlet 등
+## **[쌍용교육센터 | 2023.03-2023.08)](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)**
+*Java & Spring기반 AWS 클라우드 융합 개발자 양성 과정*
+[이수 교육 내역서 링크](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)
++ 5.5개월간의 교육
++ 3차 팀 프로젝트를 통한 협업 경험 및 다양한 기술 습득
++ Java, Spring Boot, Database, JDBC, MyBatis, JPA, HTML5 & CSS 3, JavaScript & JQuery & AJAX, JSP / Servlet 등
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0nnyday&layout=compact)](https://github.com/s0nnyday/github-readme-stats)
