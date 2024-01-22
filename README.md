@@ -47,7 +47,7 @@
 6. DBJA 마트
 
 # 📚 Education
-## **[우아한테크코스 6기](https://github.com/woowacourse-precourse) | 웹 백엔드 과정 프리코스(2023.10-2023.11)**
+## **[우아한테크코스 6기 | 웹 백엔드 과정 프리코스(2023.10-2023.11)](https://github.com/woowacourse-precourse)**
 *우아한 형제들에서 진행한 웹 백엔드 개발자 양성 교육 과정*
    * 4주 교육
    * 미션 기반의 코드 리뷰 중심 교육
