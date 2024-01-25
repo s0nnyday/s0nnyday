@@ -14,7 +14,7 @@
 - **Spring Framwork, Spring Boot, Spring MVC, Spring Security, JWT**
 - **REST API**
 - **JPA, Mybatis**
-- **Gradle.kts, Maven**
+- **Gradle, Maven**
 
 ## **DevOps**
 
@@ -56,7 +56,7 @@
 *Java & Spring기반 AWS 클라우드 융합 개발자 양성 과정*
 [이수 교육 내역서 링크](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)
 + 5.5개월간의 교육
-+ 3차 팀 프로젝트를 통한 협업 경험 및 다양한 기술 습득
++ 3차에 걸친 팀 프로젝트를 통한 협업 경험 및 다양한 기술 습득
 + Java, Spring Boot, Database, JDBC, MyBatis, JPA, HTML5 & CSS 3, JavaScript & JQuery & AJAX, JSP / Servlet 등
 
 ---
