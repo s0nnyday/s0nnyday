@@ -13,7 +13,7 @@
 - **JAVA**
 - **Spring Framwork, Spring Boot, Spring MVC, Spring Security, JWT**
 - **REST API**
-- **JPA, Mybatis**
+- **JPA, Mybatis, JDBC**
 - **Gradle, Maven**
 
 ## **DevOps**
