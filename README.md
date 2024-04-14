@@ -30,7 +30,7 @@
 ## **etc**
 
 - Git / GitHub
-- IntelliJ, Eclipse, STS
+- IntelliJ, Eclipse, ,Visual Studio Code, STS
 - Postman
 - Notion
   
