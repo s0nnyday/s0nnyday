@@ -23,8 +23,8 @@
 
 ## **Frontend**
 
-- Vue.js, JavaScript, Thymeleaf, HTML5, CSS3
-- JSP, Servlet, Ajax, JQuery, JSTL
+- Vue.js, JavaScript, HTML5, CSS3
+- JSP, Thymeleaf, Servlet, Ajax, JQuery, JSTL
 - Figma, Bootstrap
 
 ## **etc**
