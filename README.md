@@ -11,14 +11,14 @@
 ## Backend
 
 - JAVA
-- Spring Framwork, Spring MVC, Spring Boot, Spring Security, Spring Data JPA, JWT
+- Spring Framwork, Spring MVC, Spring Boot, Spring Security, JWT
 - REST API
-- JPA, Mybatis, JDBC
+- JPA, Mybatis, Spring Data JPA, JDBC
 - Gradle, Maven
 
 ## **DevOps**
 
-- MySQL, Oracle
+- MySQL, Oracle, H2
 - AWS EC2(Amazon Linux), Git Bash
 
 ## **Frontend**
