@@ -46,8 +46,8 @@
 6. DBJA 마트(마트 서비스 풀스택 개발) - Java11/Oracle DB/JDBC/Java Swing
 
 # 📚 Education
-## **[우아한테크코스 6기 | 웹 백엔드 과정 프리코스(2023.10-2023.11)](https://github.com/woowacourse-precourse)**
-## **[쌍용교육센터 | 2023.03-2023.08](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)**
+### **[우아한테크코스 6기 | 웹 백엔드 과정 프리코스(2023.10-2023.11)](https://github.com/woowacourse-precourse)**
+### **[쌍용교육센터 | 2023.03-2023.08](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)**
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0nnyday&layout=compact)](https://github.com/s0nnyday/github-readme-stats)
