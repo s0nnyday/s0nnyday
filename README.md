@@ -40,10 +40,10 @@
 
 # 💻 Projects
 1. Ward(응모 정보 제공 서비스 백엔드 개발) - JAVA17/Spring Boot3/REST API
-2. LFA(백엔드 개발) - JAVA17/Spring Boot3/REST API
+2. LFA(공익 소송 매칭 서비스 백엔드 개발) - JAVA17/Spring Boot3/REST API
 4. Culturemore(공연정보 제공 서비스 풀스택 개발) - JAVA11/Spring Boot2/Thymeleaf/HTML/CSS/JS
 5. TRAVLAN(여행정보 제공 서비스 풀스택 개발) - JAVA11/JSP/HTML/CSS/JS
-6. DBJA 마트(마트 어플리케이션 풀스택 개발) - Java11/Java Swing/Oracle DB/JDBC
+6. DBJA 마트(마트 서비스 풀스택 개발) - Java11/Java Swing/Oracle DB/JDBC
 
 # 📚 Education
 ## **[우아한테크코스 6기 | 웹 백엔드 과정 프리코스(2023.10-2023.11)](https://github.com/woowacourse-precourse)**
