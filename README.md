@@ -39,11 +39,11 @@
 * [스터디 | 책'필독! 개발자 온보딩 가이드' 독서, 토론(2023.09.-2023.11)](https://velog.io/@s0nnyday/series/%EC%8A%A4%ED%84%B0%EB%94%94%ED%95%84%EB%8F%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
 
 # 💻 Projects
-1. Ward(응모 정보 제공 서비스 백엔드 개발) - JAVA17/Spring Boot3/REST API/MySQL/JPA
-2. LFA(공익 소송 매칭 서비스 백엔드 개발) - JAVA17/Spring Boot3/REST API/MySQL/JPA
-4. Culturemore(공연정보 제공 서비스 풀스택 개발) - JAVA11/Spring Boot2/Thymeleaf/HTML/CSS/JS/Oracle/JPA/Mybatis
-5. TRAVLAN(여행정보 제공 서비스 풀스택 개발) - JAVA11/JSP/HTML/CSS/JS/Oracle/Mybatis
-6. DBJA 마트(마트 서비스 풀스택 개발) - Java11/Java Swing/Oracle DB/JDBC
+1. Ward(응모 정보 제공 서비스 백엔드 개발) - JAVA17/Spring Boot3/MySQL/JPA/REST API
+2. LFA(공익 소송 매칭 서비스 백엔드 개발) - JAVA17/Spring Boot3/MySQL/JPA/REST API
+4. Culturemore(공연정보 제공 서비스 풀스택 개발) - JAVA11/Spring Boot2/Oracle/JPA/Mybatis/Thymeleaf/HTML/CSS/JS
+5. TRAVLAN(여행정보 제공 서비스 풀스택 개발) - JAVA11/Oracle/Mybatis/JSP/HTML/CSS/JS
+6. DBJA 마트(마트 서비스 풀스택 개발) - Java11/Oracle DB/JDBC/Java Swing
 
 # 📚 Education
 ## **[우아한테크코스 6기 | 웹 백엔드 과정 프리코스(2023.10-2023.11)](https://github.com/woowacourse-precourse)**
