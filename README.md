@@ -1,7 +1,7 @@
 ## 💁‍♂️ About Me
 ### Introduction
 * 안녕하세요! 개발자 손지민입니다.
-* **꾸준함, 효율**을 중요한 가치로 여기고 있습니다.
+* **효율, 꾸준함**을 중요한 가치로 여기고 있습니다.
 
 ### Contact & Channel
 * **Email | lijnar100@naver.com**
