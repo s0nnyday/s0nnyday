@@ -36,8 +36,8 @@
 
 ## 💻 Projects
 1. [Ward(응모 정보 제공 서비스 백엔드 개발) - JAVA17/Spring Boot3/MySQL/JPA/REST API](https://github.com/Ward-Group/Ward_Server)
-2. [LFA(공익 소송 매칭 서비스 백엔드 개발) - JAVA17/Spring Boot3/MySQL/JPA/REST API](https://github.com/LawFA/LFA_Server)
-3. [Culturemore(공연정보 제공 서비스 풀스택 개발) - JAVA11/Spring Boot2/Oracle/JPA/Mybatis/Thymeleaf/HTML/CSS/JS](https://github.com/s0nnyday/CultureMoa)
+2. [Culturemore(공연정보 제공 서비스 풀스택 개발) - JAVA11/Spring Boot2/Oracle/JPA/Mybatis/Thymeleaf/HTML/CSS/JS](https://github.com/s0nnyday/CultureMoa)
+3. LFA(공익 소송 매칭 서비스 백엔드 개발) - JAVA17/Spring Boot3/MySQL/JPA/REST API
 4. TRAVLAN(여행정보 제공 서비스 풀스택 개발) - JAVA11/Oracle/Mybatis/JSP/HTML/CSS/JS
 5. DBJA 마트(마트 서비스 풀스택 개발) - Java11/Oracle DB/JDBC/Java Swing
 
