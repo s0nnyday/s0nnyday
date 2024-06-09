@@ -20,7 +20,7 @@
 
 - Docker
 - MySQL, Oracle, H2
-- AWS EC2(Amazon Linux2), Git Bash
+- AWS EC2(Amazon Linux2), DNS(가비아, Route53)
 
 ### **Frontend**
 
