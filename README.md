@@ -19,7 +19,7 @@
 ### **DevOps**
 
 - Docker
-- MySQL, Oracle, H2
+- MySQL, Oracle, H2, MongoDB
 - AWS EC2(Amazon Linux2), DNS(가비아, Route53)
 
 ### **Frontend**
