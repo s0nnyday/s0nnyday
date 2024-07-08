@@ -50,7 +50,7 @@
 * **[쌍용교육센터 | 2023.03-2023.08](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)**
 
 ---
-![s0nnyday's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0nnyday&show_icons=true&theme=dracula)
+![s0nnyday의 GitHub stats](https://github-readme-stats.vercel.app/api?username=s0nnyday&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0nnyday&layout=compact)](https://github.com/s0nnyday/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs0nnyday&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
