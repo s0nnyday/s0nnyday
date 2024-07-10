@@ -50,8 +50,8 @@
 * **[쌍용교육센터 | 2023.03-2023.08](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)**
 
 ## License and Certificate.
-#### 정보처리기사 - 2024/06 취득
-#### SQL 개발자(SQLD) - 2024/06 취득
+* **정보처리기사 - 2024/06 취득**
+* **SQL 개발자(SQLD) - 2024/06 취득**
 
 ---
 ![s0nnyday의 GitHub stats](https://github-readme-stats.vercel.app/api?username=s0nnyday&show_icons=true&theme=dracula)
