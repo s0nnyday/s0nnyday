@@ -45,7 +45,8 @@
 * [해커톤 | 원데이 프로덕트 챌린지(주관:인하대 창업지원단/너디너리(Soft Squared)(2023.11)](https://github.com/LawFA/LFA_Server)
 * 스터디 | 책'필독! 개발자 온보딩 가이드' 독서, 토론(2023.09.-2023.11)
 
-## 📚 Education
+## 📚 Education & Exprience
+* **미래내일 일경험 프로젝트형 IT직무 1기(2024.04-2024.07)**
 * **[우아한테크코스 6기 | 웹 백엔드 과정 프리코스(2023.10-2023.11)](https://github.com/woowacourse-precourse)**
 * **[쌍용교육센터 | 2023.03-2023.08](https://docs.google.com/document/d/1YgupUdITCelUYFCpc1Xm8ixob46Hwx6q_fBEOvhOx5g/edit?usp=sharing)**
 
